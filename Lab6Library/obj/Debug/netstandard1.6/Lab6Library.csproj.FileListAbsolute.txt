@@ -1,0 +1,8 @@
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\bin\Debug\netstandard1.6\Lab6Library.deps.json
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\bin\Debug\netstandard1.6\Lab6Library.dll
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\bin\Debug\netstandard1.6\Lab6Library.pdb
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\obj\Debug\netstandard1.6\Lab6Library.csprojResolveAssemblyReference.cache
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\obj\Debug\netstandard1.6\Lab6Library.csproj.CoreCompileInputs.cache
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\obj\Debug\netstandard1.6\Lab6Library.AssemblyInfo.cs
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\obj\Debug\netstandard1.6\Lab6Library.dll
+C:\Users\Dev1ne\source\repos\Lab6\Lab6Library\obj\Debug\netstandard1.6\Lab6Library.pdb
